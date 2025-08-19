@@ -17,7 +17,7 @@ image_path = st.file_uploader("Upload the band screenshot")
 
 # Defining paths to tesseract.exe 
 # and the image we would be using 
-path_to_tesseract = "Tesseract-OCR/tesseract.exe"
+# path_to_tesseract = "Tesseract-OCR/tesseract.exe"
 
 current_day = date.today().day
 
@@ -119,7 +119,7 @@ if image_path is not None:
 
     # Providing the tesseract executable 
     # location to pytesseract library 
-    pytesseract.tesseract_cmd = path_to_tesseract
+    # pytesseract.tesseract_cmd = path_to_tesseract
 
     # Passing the image object to image_to_string() function 
     # This function will extract the text from the image 
