@@ -30,7 +30,7 @@ midfield1 = ['sourav', 'amit banerjee', 'suman biswas', 'sourav jana', 'pinaki m
 
 defence1 = ['ram dutta', 'sujeet tiwari', 'sudeep ganguly', 'shaheen', 'mukherjee joydeep',
 'premjit pan', 'ayan', 'amritesh chatterjee', 'kallol roy', 'ismail sardar', 'samrat chattapadhyay',
-'sourav das', 'subhrodip', 'kunal', 'soumya', 'pramit g', 'rupam roy', 'mahadev roy', 
+'sourav das', 'subhrodip', 'pratik choudhury' , 'kunal', 'soumya', 'pramit g', 'rupam roy', 'mahadev roy', 
 'abhishek kahali']
 
 goalie1 = ['swadhin ghosh', 'puspendu sarkar', 'subrata', 'amar']
@@ -46,7 +46,7 @@ midfield2 = ['sourav', 'suman biswas', 'amit banerjee', 'sourav jana', 'pinaki m
 
 defence2 = ['dhiman', 'ram dutta', 'sujeet tiwari', 'sudeep ganguly', 'shaheen', 'mukherjee joydeep',
 'premjit pan', 'amritesh chatterjee', 'ayan', 'kallol roy', 'ismail sardar', 'samrat chattapadhyay',
-'subhrodip', 'kunal', 'soumya', 'pramit g', 'rupam roy', 'abhishek kahali', 'mahadev roy']
+'subhrodip', 'kunal', 'soumya', 'pratik choudhury' , 'pramit g', 'rupam roy', 'abhishek kahali', 'mahadev roy']
 
 goalie2 = ['swadhin ghosh', 'puspendu sarkar', 'subrata', 'amar']
 
@@ -56,12 +56,12 @@ player_list2 = midfield2 + defence2 + goalie2 + forward2
 forward3 = ['naveen', 'sourish', 'prithish', 'sujoy sen', 'rajib', 'arindam hazra', 'avi g.',
 'sujit', 'sabby g.', 'pankaj choudhury',]
 
-midfield3 = ['amit banerjee', 'sourav', 'suman biswas', 'sourav jana', 'dhiman', 'pinaki mukherjee',
-'neel das', 'pranab', 'ram dutta', 'sujeet tiwari', 'anand goswami', 'sudeep ganguly', 'shaheen',
+midfield3 = ['amit banerjee', 'sourav', 'suman biswas', 'sourav jana', 'pinaki mukherjee',
+'neel das', 'pranab', 'ram dutta', 'sujeet tiwari', 'dhiman', 'anand goswami', 'sudeep ganguly', 'shaheen',
 'sumanta']
 
-defence3 = ['mukherjee joydeep', 'premjit pan', 'ayan', 'dhiman', 'amritesh chatterjee',
-'kallol roy', 'samrat chattapadhyay', 'ismail sardar', 'kunal', 'soumya', 'pramit g',
+defence3 = ['mukherjee joydeep', 'premjit pan', 'ayan', 'amritesh chatterjee',
+'kallol roy', 'pratik choudhury' , 'samrat chattapadhyay', 'ismail sardar', 'kunal', 'soumya', 'pramit g',
 'rupam roy', 'mahadev roy', 'abhishek kahali']
 
 goalie3 = ['swadhin ghosh', 'puspendu sarkar', 'subrata', 'amar']
